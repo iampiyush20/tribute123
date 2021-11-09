@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background:rgb(241, 238, 238);
+    box-sizing: border-box;
+}
+#container{
+    margin:0;padding:0;
+}
+#header{
+    font-size:sans-serif;
+}
+#header h1{
+    font-size:75px;
+    padding:80px 30% 5px 30%;
+}
+#header p{
+    padding:0 20%;
+}
+
+.main-section{
+    background-image:url(tribute-page-main-image.jpg);
+    background:white;
+    margin:25px;
+    padding:10px;
+}
+.bottom2{
+    text-align:center;
+    padding:0 100px;
+    font-size:32px;
+}
+
+.information{
+    padding:0 150px;
+    
+}
+.about{
+    padding:0 75px;
+}
+.footer{
+    padding:0 150px;
+}
+.footer a{
+    color:rgb(110, 201, 218);
+}
